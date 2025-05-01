@@ -62,6 +62,6 @@
 ## Resultado esperado
 Una app funcional con:
 - Formulario para añadir tareas.
-- Lista con tareas (editar, eliminar, marcar como completadas).
+- Lista con tareas (añadir, eliminar, marcar como completadas).
 - Backend en Render.
 - Frontend en Netlify.
