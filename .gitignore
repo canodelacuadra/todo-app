@@ -1,2 +1,2 @@
-backend-todo-app/node_modules
-frontend-todo-app/node_modules
+./backend-todo-app/node_modules/
+./frontend-todo-app/node_modules/
